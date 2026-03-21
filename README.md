@@ -52,7 +52,7 @@
 <h2>💫 About Me</h2>
 
 ```javascript
-const sachin = {
+const abhay = {
   location: "Maharastra, India 🇮🇳",
   role: "SDE",
   workingOn: "Building scalable web applications",
