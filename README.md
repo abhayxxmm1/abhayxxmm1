@@ -87,23 +87,12 @@ const abhay = {
 <!-- Connect Section -->
 <h2 align="center">🔗 Connect With Me</h2>
 <div align="center">
-  <p align="center">
-<a href="https://www.codechef.com/users/abhayxxmm1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="abhayxxmm1" height="30" width="40" /></a>
-<a href="https://twitter.com/abhayxxmm1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhayxxmm1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/abhay-ghongade/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhay-ghongade/" height="30" width="40" /></a>
-<a href="https://fb.com/abhay ghongade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abhay ghongade" height="30" width="40" /></a>
-<a href="https://instagram.com/abhayxxmm1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhayxxmm1" height="30" width="40" /></a>
-<a href="https://medium.com/@ghongadeabhay60.medium.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ghongadeabhay60.medium.com" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://youtube.com/@thunderstorm2121?si=ryk-vakefkrvv-et" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@thunderstorm2121?si=ryk-vakefkrvv-et" height="30" width="40" /></a> 
-<a href="https://www.leetcode.com/abhayxxmm1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhayxxmm1" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/abhayxxmm1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="abhayxxmm1" height="30" width="40" /></a>
-<a href="https://discord.gg/abhayxxmm1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="abhayxxmm1" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/abhayxxmm1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abhayxxmm1" height="30" width="40" /></a>
-
-</p>
+  <a href="https://twitter.com/abhayxxmm1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/abhay-ghongade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://instagram.com/abhayxxmm1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+  <a href="https://youtube.com/@thunderstorm2121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
+  <a href="https://www.leetcode.com/abhayxxmm1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
 </div>
-
-<br/>
 
 ---
 
@@ -241,9 +230,9 @@ const abhay = {
 
 
 <!-- Footer Text -->
-<img src="https://media.giphy.com/media/nLJwD5bPJorZykKJB4/giphy.gif" alt="Funny coding gif" style="display: block; margin: 0 auto; max-width: 100%;">
+<!-- <img src="https://media.giphy.com/media/nLJwD5bPJorZykKJB4/giphy.gif" alt="Funny coding gif" style="display: block; margin: 0 auto; max-width: 100%;">
 
-<img src="./hacker dog.jpeg" alt="Funny coding gif" style="display: block; margin: 0 auto; max-width: 100%;">
+<img src="./hacker dog.jpeg" alt="Funny coding gif" style="display: block; margin: 0 auto; max-width: 100%;"> -->
 
 
 
