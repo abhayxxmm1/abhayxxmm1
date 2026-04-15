@@ -110,9 +110,9 @@ const abhay = {
 <!-- GitHub Stats Section -->
 <h2 align="center">📊 GitHub Statistics</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhayxxmm1&show_icons=true&theme=tokyonight" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhayxxmm1&theme=tokyonight&layout=compact" height="180" />
-</div>
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=abhayxxmm1&show_icons=true&theme=tokyonight" height="180" /> -->
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhayxxmm1&theme=tokyonight&layout=compact" height="180" />
+</div> -->
 
 
 <br/>
