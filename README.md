@@ -5,7 +5,7 @@
 <div align="center" style="position: relative; width: 100%;">
   <img 
     width="100%" 
-    src="./abhi.gif"
+    src="./Git.gif"
     style="display: block;"
   />
   <!-- <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); text-align: center; color: white; text-shadow: 2px 2px 8px rgba(0,0,0,0.8);">
