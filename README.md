@@ -78,7 +78,7 @@ const abhay = {
 
 - ⚡ Fun fact **I like Anime a lot and love to play chess**
 
-- Chess.com [https://link.chess.com/friend/CsLNE2](https://link.chess.com/friend/CsLNE2)
+- Chess.com [https://www.chess.com/member/abhayxxmm1](https://www.chess.com/member/abhayxxmm1)
 
 </p>
 
