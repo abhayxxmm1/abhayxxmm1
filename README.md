@@ -17,11 +17,11 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=00FF9C" />
 </p>
-<br/>
+<!-- <br/>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=32&duration=800&pause=999999&color=00FF9C&center=true&vCenter=true&width=500&lines=Abhay+Ghongade" />
 </p>
-<br/>
+<br/> -->
 
 
 
