@@ -32,8 +32,8 @@
 -->
 
 <!-- Name & Role -->
-<h1 align="center">Abhay Sanjay Ghongade</h1>
-<p align="center">Software Developer &nbsp;|&nbsp; Java Full Stack Developer</p>
+<!-- <h1 align="center">Abhay Sanjay Ghongade</h1>
+<p align="center">Software Developer &nbsp;|&nbsp; Java Full Stack Developer</p> -->
 
 
 <!-- Profile Badges -->
